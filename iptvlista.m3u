@@ -1,0 +1,216 @@
+#EXTM3U
+
+#EXTINF:-1, BBB CAMERA 1
+https://d3dwqawq9yp7h.cloudfront.net/hls1/bbb.m3u8?wmsAuthSign=
+
+#EXTINF:0,ABERTOS
+
+#EXTINF:-1, SBT
+https://d3dwqawq9yp7h.cloudfront.net/hls1/sbt.m3u8?wmsAuthSign=
+
+#EXTINF:-1, RECORD SP
+https://d3dwqawq9yp7h.cloudfront.net/hls1/recordsp.m3u8?wmsAuthSign=
+
+#EXTINF:-1, BAND
+https://d3dwqawq9yp7h.cloudfront.net/hls1/band.m3u8?wmsAuthSign=
+
+#EXTINF:-1, RECORD NEWS
+https://d3dwqawq9yp7h.cloudfront.net/hls1/recordnews.m3u8?wmsAuthSign=
+
+#EXTINF:-1, GLOBO NEWS
+https://d3dwqawq9yp7h.cloudfront.net/hls1/globonews.m3u8?wmsAuthSign=
+
+#EXTINF:-1, BAND NEWS 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/bandnews.m3u8?wmsAuthSign=
+
+
+#EXTINF:0,ESPORTES 
+
+#EXTINF:-1,FOX SPORTS
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/90.m3u8
+
+#EXTINF:-1,FOX SPORTS 2
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/88.m3u8
+
+#EXTINF:-1,ESPN BRASIL
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_240_av-p.m3u8
+
+#EXTINF:-1,ESPN FULL
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ESPN 2 FULL
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ESPN EXTRA
+https://d3dwqawq9yp7h.cloudfront.net/hls1/espnextra.m3u8?wmsAuthSign=
+
+#EXTINF:-1,SPORTV 1
+https://d3dwqawq9yp7h.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=
+
+#EXTINF:-1,SPORTV 2
+https://d3dwqawq9yp7h.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=
+
+#EXTINF:-1,SPORTV 3 
+http://tvnanet.xyz:25461/live/palmeiras/semmundial/229.m3u8
+
+#EXTINF:-1,Premiere Clubes
+https://d3dwqawq9yp7h.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
+
+#EXTINF:-1,Premiere 2
+https://d3dwqawq9yp7h.cloudfront.net/hls1/premiere2.m3u8?wmsAuthSign=
+
+#EXTINF:-1,Premiere 3
+https://d3dwqawq9yp7h.cloudfront.net/hls1/premiere3.m3u8?wmsAuthSign=
+
+#EXTINF:-1,Premiere 4
+https://d3dwqawq9yp7h.cloudfront.net/hls1/premiere4.m3u8?wmsAuthSign=
+
+#EXTINF:-1,Premiere 5
+https://d3dwqawq9yp7h.cloudfront.net/hls1/premiere5.m3u8?wmsAuthSign=
+
+#EXTINF:-1,Premiere 6
+https://d3dwqawq9yp7h.cloudfront.net/hls1/premiere6.m3u8?wmsAuthSign=
+
+#EXTINF:-1,Premiere 7
+https://d3dwqawq9yp7h.cloudfront.net/hls1/premiere7.m3u8?wmsAuthSign=
+
+#EXTINF:0
+#EXTINF:0
+
+
+
+#EXTINF:0,DOCUMENTARIO
+
+#EXTINF:-1,DISCOVERY CHANNEL
+https://d3dwqawq9yp7h.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
+
+#EXTINF:-1,ANIMAL PLANET
+https://d3dwqawq9yp7h.cloudfront.net/hls1/animalplanet.m3u8?wmsAuthSign=
+
+#EXTINF:-1,HISTORY
+https://d3dwqawq9yp7h.cloudfront.net/hls1/history.m3u8?wmsAuthSign=
+
+#EXTINF:-1,HISTORY 2
+https://d3dwqawq9yp7h.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=
+
+#EXTINF:-1, NATIONAL GEO WILD 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/natgeowild.m3u8?wmsAuthSign=
+
+#EXTINF:-1, NAT GEOGRAPHIC CHANNEL 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISCOVERY THEATER 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/discoverytheater.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISCOVERY SCIENCE
+https://d3dwqawq9yp7h.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISCOVERY CIVILIZATION
+https://d3dwqawq9yp7h.cloudfront.net/hls1/discoverycivilization.m3u8?wmsAuthSign=
+
+#EXTINF:-1, INVESTIOGAÇAO DISCOVERY
+https://d3dwqawq9yp7h.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISCOVERY WORLD
+https://d3dwqawq9yp7h.cloudfront.net/hls1/discoveryworld.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISCOVERY HOME & HEALTH
+https://d3dwqawq9yp7h.cloudfront.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=
+
+#EXTINF:-1,FISH TV
+https://d3dwqawq9yp7h.cloudfront.net/hls1/fishtv.m3u8?wmsAuthSign=
+
+#EXTINF:0, FILMES
+
+#EXTINF:-1,HBO PLUS 
+https://d3dwqawq9yp7h.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=
+
+#EXTINF:-1,HBO SIGNATURE
+https://d3dwqawq9yp7h.cloudfront.net/hls1/hbosignature.m3u8?wmsAuthSign=
+
+#EXTINF:-1,TELECINE PIPOCA
+https://d3dwqawq9yp7h.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
+
+#EXTINF:-1,TELECINE FUN
+https://d3dwqawq9yp7h.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign=
+
+#EXTINF:-1,TELECINE TOUCH
+https://d3dwqawq9yp7h.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=
+
+#EXTINF:-1,TELECINE ACTION
+https://d3dwqawq9yp7h.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=
+
+#EXTINF:-1,TELECINE PREMIUM
+https://d3dwqawq9yp7h.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
+
+#EXTINF:-1,SONY
+https://d3dwqawq9yp7h.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=
+
+#EXTINF:-1, MAX PRIME
+https://d3dwqawq9yp7h.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign=
+
+#EXTINF:-1, TCM
+https://d3dwqawq9yp7h.cloudfront.net/hls1/tcm.m3u8?wmsAuthSign=
+
+#EXTINF:-1, TNT SERIES
+https://d3dwqawq9yp7h.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=
+
+#EXTINF:0, MUSICAS
+
+#EXTINF:-1,SPACE * MUSICA
+https://d3dwqawq9yp7h.cloudfront.net/hls1/space.m3u8?wmsAuthSign=
+
+#EXTINF:-1, MTV TRADICIONAL
+https://d3dwqawq9yp7h.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=
+
+#EXTINF:-1, MTV LIVE
+https://d3dwqawq9yp7h.cloudfront.net/hls1/mtvlive.m3u8?wmsAuthSign=
+
+#EXTINF:-1, MULTISHOW
+https://d3dwqawq9yp7h.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=
+
+#EXTINF:0, DESENHOS 
+
+#EXTINF:-1, BOOMERANG * DESENHO
+https://d3dwqawq9yp7h.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=
+
+#EXTINF:-1, ZOOMOO
+https://d3dwqawq9yp7h.cloudfront.net/hls1/zoomoo.m3u8?wmsAuthSign=
+
+#EXTINF:-1, TOONCAST
+https://d3dwqawq9yp7h.cloudfront.net/hls1/tooncast.m3u8?wmsAuthSign=
+
+#EXTINF:-1, NICK JR
+https://d3dwqawq9yp7h.cloudfront.net/hls1/nickjr.m3u8?wmsAuthSign=
+
+#EXTINF:-1,NICKELODEAN
+https://d3dwqawq9yp7h.cloudfront.net/hls1/nick.m3u8?wmsAuthSign=
+
+#EXTINF:-1, NAT GEO KIDS
+https://d3dwqawq9yp7h.cloudfront.net/hls1/natgeokids.m3u8?wmsAuthSign=
+
+#EXTINF:-1, GLOOB
+https://d3dwqawq9yp7h.cloudfront.net/hls1/gloob.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISNEY XD
+https://d3dwqawq9yp7h.cloudfront.net/hls1/disneyxd.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISNEY JUNIOR
+https://d3dwqawq9yp7h.cloudfront.net/hls1/disneyjunior.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISNEY CHANNEL
+https://d3dwqawq9yp7h.cloudfront.net/hls1/disney.m3u8?wmsAuthSign=
+
+#EXTINF:-1, DISCOVERY KIDS
+https://d3dwqawq9yp7h.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=
+
+#EXTINF:-1, CARTOON NETWORK
+https://d3dwqawq9yp7h.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
+
+#EXTINF:-0, OUTROS
+
+#EXTINF:-1, ARTE 1
+https://d3dwqawq9yp7h.cloudfront.net/hls1/arte1.m3u8?wmsAuthSign=
+
+#EXTINF:-1, COMBATE
+https://d3dwqawq9yp7h.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
